@@ -3,7 +3,7 @@
 from aiogram import Bot, Dispatcher, executor, types
 
 # init aiogram
-bot = Bot(token="you token")
+bot = Bot(token="5694540297:AAFuLk8Je6mPFWgRFOf6iAp2d0Ko9S9i-3s")
 dp = Dispatcher(bot)
 
 @dp.message_handler()
